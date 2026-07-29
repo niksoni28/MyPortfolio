@@ -130,12 +130,6 @@ This site is deployed on [Vercel](https://vercel.com).
 
 ---
 
-## 🙏 Credits
-
-This portfolio is built on top of the open-source [3D Portfolio template](https://github.com/Naresh-Khatri/3d-portfolio) by [Naresh Khatri](https://github.com/Naresh-Khatri), licensed under MIT. Huge thanks for the original design and codebase.
-
----
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
